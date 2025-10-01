@@ -49,7 +49,7 @@ The dataset used for building this dashboard can be found here:
 
 ## 📸 Dashboard Screenshot
 
-![Candidate Profile Analyzer Dashboard](https://github.com/katakamkamakshi/DataAnalyticsDashboard_PGA38/blob/main/Candidate_profile_analyser.png)  
+![Candidate Profile Analyzer Dashboard]("C:\Users\kamakshi k\OneDrive\Pictures\Screenshots\Candidate_profile_analyser.png")  
 
 *(Replace the link above with the correct path to your uploaded screenshot in this repo, e.g., `/images/dashboard.png`)*  
 
