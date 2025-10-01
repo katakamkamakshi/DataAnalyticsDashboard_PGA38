@@ -40,14 +40,13 @@ The dashboard is built to assist **recruiters, HR managers, and hiring teams** i
 
 ## 📂 Dataset
 
-The dataset used for building this dashboard can be found here:  
-👉 [Candidate Dataset (Sample)](https://www.kaggle.com/)  
+The dataset for this project was **manually collected** by gathering multiple candidate resumes.  
+These resumes were then **converted into a structured Excel file using GenAI prompts** for entity extraction (Name, Email, Phone, Skills, Education, and Experience).  
 
-*(Replace with your own dataset link if private or hosted elsewhere, e.g., Google Drive / GitHub repo)*  
-
+👉 This approach helped in quickly transforming unstructured resume data into a **machine-readable format**, which was later used for dashboard development.  
 ---
 
-## 📸 Dashboard Screenshot
+
 
 ## 📸 Dashboard Screenshot
 
